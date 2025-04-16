@@ -22,6 +22,7 @@ To run this project locally, ensure you have the following installed:
 
 - **Python 3.7+**
 - **pip** (Python package installer)
+- **git**
 
 ### Required Python packages:
 
