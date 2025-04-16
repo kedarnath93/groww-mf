@@ -63,6 +63,8 @@ python app.py
 
 Open [http://127.0.0.1:8050](http://127.0.0.1:8050) to interact with the dashboard.
 
+App would look something like this:
+![Mutual Fund Explorer Screenshot](images/app-screeenshot.png)
 ---
 
 ## 📁 Project Structure
